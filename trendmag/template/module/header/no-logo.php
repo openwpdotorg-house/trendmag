@@ -1,0 +1,2 @@
+<h1 class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name'));?>"><?php echo esc_attr(get_bloginfo('name'), 'display');?></a></h1>
+<p><?php echo esc_attr(get_bloginfo('description', 'display')); ?></p>

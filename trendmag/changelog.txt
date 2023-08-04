@@ -1,0 +1,37 @@
+///////////////////////////////////////////
+    Trendmag lite theme - Change log
+///////////////////////////////////////////
+#1.1.1
+    * Add TGM-Plugin-Activation for recommends  kopaframework plugin
+
+#1.0.12
+    * change screenshot
+
+#1.0.11
+    * Removed variable $is_IE
+    * Removed some links to localhost
+    * Remove empty file sidebar.php
+
+#1.0.10
+    * Remove unused constants: TRENDMAG_VERSION, TRENDMAG_MODE
+
+#1.0.9
+    * Remove unused minified file
+
+#1.0.8
+    * Remove minified file
+
+#1.0.7
+    * Fix bug: menu level
+    * Fix bug: not display comments at post and page
+    * Fix bug: escape character at blog page
+    * Remove unused settings in customize such as: big logo, favicon
+    * Fix display widget heading into footer
+
+#1.0.6 - 24 September, 2015
+    * Changed screenshot
+    * Fix bug: Fatal error when call function trendmag_get_view_count_for_post()
+    * Fix bug: Remove blank space between page and comment template
+
+#1.0.0 - 9 July, 2015
+    * Theme release !!!

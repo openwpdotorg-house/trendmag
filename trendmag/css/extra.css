@@ -1,0 +1,159 @@
+.articles-list-5 > .widget-content .entry-item.no-thumb .entry-right .entry-author {
+    margin-left: 0!important;
+}
+.blog-no-sb-right {
+    width: 100%!important;
+}
+.kopa-comments .entry-item .entry-box .comment-reply-link, .kopa-comments .entry-item .entry-box .comment-edit-link {
+    float: right;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 23px;
+    color: #909090;
+    background: #e7e7e7;
+    padding: 0 14px;
+    transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -ms-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -webkit-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -moz-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+}
+
+.kopa-comments .entry-item .entry-box .comment-edit-link {
+    margin-right: 3px;
+}
+
+.kopa-full-width-before .trendmag-before, .kopa-full-width-after .trendmag-after {
+    width: 100%;
+}
+
+.contact-box .contact-box-right .contact-form-box input[type="email"],
+.contact-box .contact-box-right .contact-form-box input[type="tel"]
+{
+    width: 100%;
+    color: #909090;
+    font-size: 17px;
+    line-height: 26px;
+    padding: 10px 16px;
+    border: 1px solid #e6e6e6;
+    background: #f9f9f9;
+    margin: 0 0 30px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -ms-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -webkit-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    -moz-transition: all 0.3s ease 0s, visibility 0s ease 0s;
+    font-family: Georgia, serif;
+    font-weight: normal;
+}
+
+.trendmag-toolkit-contact-simple {
+    margin-bottom: 0!important;
+}
+
+/* addition css */
+.wp-caption {
+    max-width: 100%;
+    color: #333333;
+    margin-bottom: 24px;
+}
+.wp-caption-text {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    box-sizing:         border-box;
+    font-size: 12px;
+    font-style: italic;
+    line-height: 1.5;
+    margin: 9px 0;
+}
+
+div.wp-caption .wp-caption-text {
+    padding-right: 10px;
+}
+.gallery-caption {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    box-sizing:         border-box;
+    color: #fff;
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 0;
+    max-height: 50%;
+    opacity: 0;
+    padding: 6px 8px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+    width: 100%;
+}
+.bypostauthor > article .fn:before {
+    content: "\f408";
+    margin: 0 2px 0 -2px;
+    position: relative;
+    top: -1px;
+}
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+.woocommerce .woocommerce-ordering {
+    margin:0;
+}
+.trendmag-shop .trendmag_toolkit_plus-products-carousel {
+    margin:0!important;
+}
+
+.trendmag-shop .trendmag_toolkit_plus-products-carousel .widget-title {
+    margin-bottom: 22px;
+    padding: 50px 0 35px;
+}
+
+.trendmag-shop .wrap-top-page {
+    padding-bottom: 21px!important;
+}
+
+/* CONTACT PAGE */
+.trendmag-layout-contact-page .wrap-top-page {
+    padding-bottom: 21px;
+}
+.trendmag-layout-contact-page .contact-box-left, .trendmag-layout-contact-page .contact-box-right {
+    width: 100%!important;
+}
+.trendmag-layout-contact-page .trendmag_toolkit_plus-google-map, .trendmag-layout-contact-page .contact-box .contact-box-right {
+    margin-bottom: 0;
+}
+
+.trendmag-layout-media-page .owl-widget-3 .widget-header .widget-title span,
+.trendmag-layout-media-page .owl-widget-3 .widget-content .entry-item .entry-title a{
+    color:#414141;
+}
+.trendmag-layout-media-page .owl-widget-3 .widget-content .entry-item {
+    text-align: left;
+}
+.trendmag-layout-media-page .owl-widget-3 {
+    background-image: none;
+}
+
+blockquote p {
+    color:#909090;
+}
+.widget_recent_comments li a {
+    word-wrap: break-word;
+}
+
+.kopa-main-content {
+    padding-bottom: 10px;
+    min-height: 1px;
+}
+#bottom-sidebar h3.widget-titrle {
+    color: #fff;
+}

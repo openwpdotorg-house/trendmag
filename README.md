@@ -1,0 +1,2 @@
+Trendmag: Free WordPress Theme
+---

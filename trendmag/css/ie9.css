@@ -1,0 +1,12 @@
+
+/* Overlay */
+.entry-item .entry-thumb .overlay:before,.entry-item .entry-thumb .overlay:after{
+	display:none;
+}
+
+.contact-box .contact-box-right .contact-form-box input[type="text"],
+.contact-box .contact-box-right .contact-form-box input[type="email"], 
+.contact-box .contact-box-right .contact-form-box input[type="tel"]{
+	padding-top:10px;
+	padding-bottom:10px;
+}

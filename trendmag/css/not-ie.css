@@ -1,0 +1,11 @@
+/* Filter */
+.kopa-filter .wrap-filter:after,.kopa-filter .wrap-filter:before{
+    display:none;
+}
+.kopa-filter .wrap-filter select{
+    padding:10px 5px 14px 20px;
+}
+
+.contact-box .contact-box-right .contact-form-box input[type="email"], .contact-box .contact-box-right .contact-form-box input[type="tel"]{
+	line-height:2px;
+}
